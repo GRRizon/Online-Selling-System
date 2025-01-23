@@ -216,7 +216,7 @@ void createAccount(vector<string>& usernames, vector<string>& passwords) {
 int main() {
     vector<string> usernames = {"Rabbani", "user1", "user2"};
     vector<string> passwords = {"223071062", "password1", "password2"};
-    cout << "GR Food BD" << endl;
+    cout << "Online Selling System" << endl;
     cout << "Do you have an account? (yes/no): ";
     string accountChoice;
     cin >> accountChoice;
